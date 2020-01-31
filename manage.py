@@ -4,6 +4,8 @@ import os
 import sys
 # Hello World
 
+#hello world
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'madadkor.settings')
     try:
